@@ -1,1 +1,0 @@
-# ECS-using-Terraform
